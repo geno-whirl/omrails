@@ -18,7 +18,7 @@ gem 'devise'
 # Paperclip
 gem 'paperclip'
 # Amazon Web Services
-gem 'aws-sdk', '~>2.0'
+gem 'aws-sdk', '<2.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
