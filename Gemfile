@@ -16,7 +16,7 @@ gem 'bootstrap-sass'
 # Devise
 gem 'devise'
 # Paperclip
-gem 'paperclip'
+gem 'paperclip', '~>4.3'
 # Amazon Web Services
 gem 'aws-sdk', '<2.0'
 
