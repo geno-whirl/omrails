@@ -16,6 +16,8 @@ gem 'bootstrap-sass'
 gem 'devise'
 # Paperclip
 gem 'paperclip'
+# Amazon Web Services
+gem 'aws-sdk'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
